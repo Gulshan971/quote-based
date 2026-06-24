@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background:linear-gradient(to left ,rgb(64, 57, 193) , purple ) ;
+    background-color: slategray;
 }
 h1{
     background-color: burlywood;
